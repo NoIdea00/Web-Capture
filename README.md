@@ -51,7 +51,7 @@ This tool captures screenshots and page sources of websites using **Selenium** a
 3. **Run the tool**
 
    ```bash
-   python main.py
+   python web-snapshot-tool.py
    ```
 
 4. **View the results**
