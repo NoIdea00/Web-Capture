@@ -93,7 +93,7 @@ This tool captures screenshots and page sources of websites using **Selenium** a
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by NoIdea00
 
 ---
 
