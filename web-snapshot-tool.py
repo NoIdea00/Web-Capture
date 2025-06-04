@@ -48,7 +48,7 @@ def ensure_url_format(url):
 def capture_with_selenium(url, out_dir):
     chrome_options = ChromeOptions()
     chrome_options.add_argument("--disable-infobars")
-    chrome_options.add_argument("--headless") ############################################
+    ##chrome_options.add_argument("--headless") ############################################
     chrome_options.add_argument("--start-maximized")
 
     service = ChromeService()
